@@ -8,7 +8,7 @@ description: desc
 
 
 
-<figure><img src=".gitbook/assets/高安地帶_A族強運_高價值物資運輸策略.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/the-image.png" alt=""><figcaption></figcaption></figure>
 
 
 
