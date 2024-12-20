@@ -2,7 +2,7 @@
 description: desc
 ---
 
-# 高安地帶 - 高價值物資運輸策略
+# 好啊，第一篇
 
 123123123
 
@@ -13,5 +13,3 @@ description: desc
 
 
 note, need to update the tax rate.
-
-{% embed url="https://eve-formosa.gitbook.io/ear/she-qun-jie-shao/jia-ru-wo-men/cl205" %}
